@@ -185,7 +185,7 @@ The built files in the `out` folder can be hosted on any static file hosting ser
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [Akhil Jakka's GIT](https://github.com/akhiljakka/VamsiKrishnaproject/).
 
 ## Support
 
